@@ -1,0 +1,36 @@
+2021-11-19T20:50:56.053Z [store-api] error POST  - undefined
+2021-11-19T22:50:36.915Z [store-api] error POST  - undefined
+2021-11-19T22:50:52.230Z [store-api] error POST  - undefined
+2021-11-19T22:51:33.907Z [store-api] error POST  - undefined
+2021-11-19T22:51:38.073Z [store-api] error POST  - undefined
+2021-11-19T22:51:51.251Z [store-api] error POST  - undefined
+2021-11-19T22:52:59.547Z [store-api] error POST  - undefined
+2021-11-19T22:53:32.004Z [store-api] error POST  - undefined
+2021-11-19T22:53:32.931Z [store-api] error POST  - undefined
+2021-11-19T22:53:33.501Z [store-api] error POST  - undefined
+2021-11-19T22:53:55.691Z [store-api] error POST  - undefined
+2021-11-19T22:54:23.269Z [store-api] error POST  - undefined
+2021-11-19T22:56:32.269Z [store-api] info POST /client - {"name":"João","cpf":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-19T23:01:41.957Z [store-api] info POST /client - {"name":"João","cpf":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-19T23:01:55.545Z [store-api] info POST /client - {"name":"João","cpf":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-19T23:08:02.469Z [store-api] info POST /client - {"name":"João","cpf":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-19T23:08:11.439Z [store-api] error POST  - undefined
+2021-11-19T23:09:59.637Z [store-api] error POST  - undefined
+2021-11-19T23:34:04.789Z [store-api] info GET /client
+2021-11-19T23:36:42.460Z [store-api] error GET  - undefined
+2021-11-19T23:38:29.588Z [store-api] info GET /client
+2021-11-20T00:56:29.767Z [store-api] error GET  - undefined
+2021-11-20T00:56:54.662Z [store-api] error GET  - undefined
+2021-11-20T00:57:47.396Z [store-api] error GET  - undefined
+2021-11-20T00:59:18.825Z [store-api] info GET /client
+2021-11-20T00:59:47.486Z [store-api] info GET /client
+2021-11-20T01:00:04.774Z [store-api] info GET /client
+2021-11-20T01:01:07.647Z [store-api] info GET /client
+2021-11-20T01:01:07.650Z [store-api] info GET /client
+2021-11-20T01:16:07.927Z [store-api] error DELETE  - undefined
+2021-11-20T01:16:35.611Z [store-api] info GET /client
+2021-11-20T01:54:00.671Z [store-api] error PUT  - undefined
+2021-11-20T01:55:12.910Z [store-api] error PUT  - undefined
+2021-11-20T01:55:34.056Z [store-api] error PUT  - undefined
+2021-11-20T01:57:13.546Z [store-api] info PUT /client - [{"client_id":4,"name":"Juju","cpf":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}]
+2021-11-20T01:57:19.700Z [store-api] info GET /client

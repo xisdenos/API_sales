@@ -34,3 +34,32 @@
 2021-11-20T01:55:34.056Z [store-api] error PUT  - undefined
 2021-11-20T01:57:13.546Z [store-api] info PUT /client - [{"client_id":4,"name":"Juju","cpf":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}]
 2021-11-20T01:57:19.700Z [store-api] info GET /client
+2021-11-20T04:14:32.593Z [store-api] info GET /client
+2021-11-20T04:14:37.953Z [store-api] info GET /client
+2021-11-20T04:31:52.622Z [store-api] info GET /supplier
+2021-11-20T04:31:59.430Z [store-api] error POST  - undefined
+2021-11-20T04:36:53.480Z [store-api] info POST /supplier - {"name":"João","cnpj":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:37:04.877Z [store-api] info POST /supplier - {"name":"pIROBA","cnpj":"15840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:37:14.749Z [store-api] info POST /supplier - {"name":"pIROBA3","cnpj":"1584033478sfdsd","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:37:32.471Z [store-api] info GET /supplier
+2021-11-20T04:37:38.544Z [store-api] info DELETE /client
+2021-11-20T04:37:40.826Z [store-api] info GET /supplier
+2021-11-20T04:37:41.343Z [store-api] info GET /supplier
+2021-11-20T04:37:52.524Z [store-api] error DELETE  - undefined
+2021-11-20T04:39:19.026Z [store-api] info POST /supplier - {"name":"pIROBA3","cnpj":"1584033478sfdsd","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:39:19.028Z [store-api] info POST /supplier - {"name":"pIROBA3","cnpj":"1584033478sfdsd","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:39:19.781Z [store-api] info POST /supplier - {"name":"pIROBA3","cnpj":"1584033478sfdsd","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:39:20.431Z [store-api] info POST /supplier - {"name":"pIROBA3","cnpj":"1584033478sfdsd","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:39:21.054Z [store-api] info POST /supplier - {"name":"pIROBA3","cnpj":"1584033478sfdsd","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}
+2021-11-20T04:39:24.818Z [store-api] error DELETE  - undefined
+2021-11-20T04:39:43.008Z [store-api] error DELETE  - undefined
+2021-11-20T04:43:50.690Z [store-api] info GET /supplier
+2021-11-20T04:44:58.355Z [store-api] error DELETE  - undefined
+2021-11-20T04:46:02.820Z [store-api] error PUT  - undefined
+2021-11-20T04:46:22.288Z [store-api] info PUT /supplier - [{"supplier_id":4,"name":"Juju","cnpj":"5840334780","phone":"991993214","email":"joao@gmail.com","address":"Rua Olaria, n 1060"}]
+2021-11-20T04:46:27.777Z [store-api] info GET /supplier
+2021-11-20T04:46:35.202Z [store-api] error DELETE  - undefined
+2021-11-20T04:47:11.769Z [store-api] error DELETE  - undefined
+2021-11-20T04:48:58.740Z [store-api] error DELETE  - undefined
+2021-11-20T04:49:19.670Z [store-api] info DELETE /supplier
+2021-11-20T04:49:24.893Z [store-api] info GET /supplier

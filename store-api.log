@@ -63,3 +63,11 @@
 2021-11-20T04:48:58.740Z [store-api] error DELETE  - undefined
 2021-11-20T04:49:19.670Z [store-api] info DELETE /supplier
 2021-11-20T04:49:24.893Z [store-api] info GET /supplier
+2021-11-21T02:31:02.329Z [store-api] info GET /product
+2021-11-21T02:35:18.391Z [store-api] info POST /product - {"name":"Notebook Acer","description":"Laptop","value":"2000","stock":"7","supplier_id":"3"}
+2021-11-21T02:35:38.706Z [store-api] info GET /product
+2021-11-21T02:36:14.105Z [store-api] info POST /product - {"name":"Notebook Acer","description":"Laptop","value":"2000","stock":"7","supplier_id":8}
+2021-11-21T02:47:04.118Z [store-api] info GET /product
+2021-11-21T02:47:09.537Z [store-api] error POST  - undefined
+2021-11-21T02:47:17.357Z [store-api] error POST  - undefined
+2021-11-21T02:47:20.512Z [store-api] info POST /product - {"name":"Notebook Acer","description":"Laptop","value":"2000","stock":"7","supplier_id":3}

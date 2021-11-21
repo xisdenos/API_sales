@@ -32,7 +32,7 @@ app.use(cors());
 app.use("/client", clientsRouter);
 app.use("/product", productsRouter);
 app.use("/supplier", suppliersRouter);
-app.use("/sales", salesRouter);
+app.use("/sale", salesRouter);
 app.use((err, req, res, next) => {
     logger.error(`${req.method} ${req.baseUrl} - ${req.message}`);
     res.status(400).send({ error: err.message})

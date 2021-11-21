@@ -71,3 +71,12 @@
 2021-11-21T02:47:09.537Z [store-api] error POST  - undefined
 2021-11-21T02:47:17.357Z [store-api] error POST  - undefined
 2021-11-21T02:47:20.512Z [store-api] info POST /product - {"name":"Notebook Acer","description":"Laptop","value":"2000","stock":"7","supplier_id":3}
+2021-11-21T02:57:38.723Z [store-api] error POST  - undefined
+2021-11-21T03:01:46.839Z [store-api] error PUT  - undefined
+2021-11-21T03:02:01.319Z [store-api] info PUT /product - []
+2021-11-21T03:02:01.326Z [store-api] info PUT /product - []
+2021-11-21T03:02:06.451Z [store-api] info GET /product
+2021-11-21T03:02:09.078Z [store-api] info GET /product
+2021-11-21T03:02:09.249Z [store-api] info GET /product
+2021-11-21T03:02:35.420Z [store-api] info GET /product
+2021-11-21T03:29:11.658Z [store-api] error POST  - undefined
